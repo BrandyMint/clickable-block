@@ -1,0 +1,22 @@
+{
+  "name": "clickable-block",
+  "description": "make any block element clickable",
+  "version": "1.0.0",
+  "keywords": ["link", "clickable"],
+  "homepage": "",
+  "author": {
+    "name": "Alexander Mescheryakov",
+    "email": "sib@brandymint.ru",
+    "web": "http://brandymint.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrandyMint/clickable-block.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT License",
+      "url": "http://opensource.org/licenses/mit-license.html"
+    }
+  ]
+}
